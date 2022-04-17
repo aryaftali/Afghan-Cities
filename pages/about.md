@@ -17,3 +17,5 @@ credits: true
 This collection shows and describes different areas of Afghanistan. The collection features photos taken from a relatives' travels there. The images were taken on a smartphone camera between the years of 2017 through 2018. It includes landmark, landscape, animal, and scenic photos from cities and towns in Afghanistan. 
 
 I hope you enjoy viewing the Cities and Towns of Afghanistan collection!
+
+{% include feature/item-figure.html objectid="coll014" width="50" %}
