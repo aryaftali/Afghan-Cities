@@ -18,5 +18,4 @@ This collection shows and describes different areas of Afghanistan. The collecti
 
 I hope you enjoy viewing the Cities and Towns of Afghanistan collection!
 
-{% include feature/item-figure.html objectid="coll014" width="50" %}
 ![coll014kabul_field](https://user-images.githubusercontent.com/102884559/163736020-defdd5f9-2663-410b-91e4-2b0bdaff4075.jpg)
