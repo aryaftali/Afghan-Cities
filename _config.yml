@@ -20,21 +20,21 @@ source-code: https://github.com/aryaftali/Cities-and-Towns-of-Afghanistan
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: Cities and Towns of Afghanistan
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Photographs of different cities and towns of Afghanistan
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "This collection shows and describes different areas of Afghanistan. The images were taken from a smartphone between the years of 2017 through 2018. It includes landmark, landscape, animal, and scenic photos from cities and towns in Afghanistan."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Arzo Yaftali
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-metadata 
+metadata: Metadata drafting (3).csv 
 
 ##########
 # Site/Organization Branding 
