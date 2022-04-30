@@ -21,7 +21,3 @@ I hope you enjoy viewing the Places in Afghanistan collection!
 ![coll014kabul_field](https://user-images.githubusercontent.com/102884559/163736020-defdd5f9-2663-410b-91e4-2b0bdaff4075.jpg)
 
 Downtown Kabul
-
-{% include feature/item-figure.html ojbectid="coll014" width="50" %}
-
-
