@@ -14,11 +14,14 @@ credits: true
 
 ## About the Collection
 
-This collection shows and describes different areas of Afghanistan. The collection features photos taken from a relatives' travels there. The images were taken on a smartphone camera between the years of 2017 through 2018. It includes landmark, landscape, animal, and scenic photos from cities and towns in Afghanistan. 
+The Places in Afghanistan collection shows and describes different areas of Afghanistan. The collection features photos captured from a relatives' travels to the country, between the years of 2017-2018, through a smartphone camera. The collection displays landmark, landscape, animal, and scenic photos from cities and towns in Afghanistan. 
 
-I hope you enjoy viewing the Cities and Towns of Afghanistan collection!
+I hope you enjoy viewing the Places in Afghanistan collection!
 
 ![coll014kabul_field](https://user-images.githubusercontent.com/102884559/163736020-defdd5f9-2663-410b-91e4-2b0bdaff4075.jpg)
 
 Downtown Kabul
+
+{% include feature/item-figure.html ojbectid="coll014" width="50" %}
+
 
